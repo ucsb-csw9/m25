@@ -10,7 +10,7 @@ ready: true
 
 Richert Wang
 
-* Tuesdays / Thursdays 1pm - 2pm (https://ucsb.zoom.us/j/83053096650)
+* Tuesdays / Thursdays 3:30pm - 4:30pm (zoom link lecture)
 
 # Teaching Assistants
 
