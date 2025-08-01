@@ -17,14 +17,14 @@ Richert Wang
 Nawel Alioua
 
 * Lab Sections: 9:30am, 11am
-* TBD
+* Mondays 9am - 11am (https://ucsb.zoom.us/j/85484585169)
 
 Sanjay Chandrasekaran
 
 * Lab Sections: 9:30am, 11am
-* TBD
+* Tuesdays 5pm - 7pm (https://ucsb.zoom.us/j/85484585169)
 
 Callie Sardina
 
 * Lab Sections: 9:30am, 11am
-* TBD
+* Fridays 10am - 12pm (https://ucsb.zoom.us/j/85484585169)
