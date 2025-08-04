@@ -37,7 +37,7 @@ Intermediate topics in Computer Science using the Python programming language. T
 
 * If you are registered for another UCSB course that overlaps with this one, you are responsible for any work or material you may miss. I am within my rights to not give credit on any work you miss as a result, and WILL NOT make accomodations.
 * Collaboration is only permitted when specifically allowed for — otherwise, you must do your own work independently (lab assignments must be done independently this quarter). Use of AI tools can be used to help students study concepts, **but all code submitted for the assignments (including test code and debugging) must be done without AI**.
-* I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable. Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we will drop the lowest two grades from everyone's homework. No lab assignments will be dropped. This way, absences (or failure to submit homework) does not unduly penalize your grade unless it becomes excessive.
+* We will drop the lowest two grades from everyone's homework. No lab assignments, iClicker participation, presentation / presentation feedback activities, or exams will be dropped.
 * We will use the [gradescope system](https://gradescope.com) this quarter for lab submissions and homework assignments. The midterm and final exams will be conducted on the Gradescope system.
 * All regrade requests must be made on Gradescope and we will not consider a regrade request one week after the assignment grades are distributed back to students.
 
@@ -85,12 +85,11 @@ In general, homeworks will be assigned periodically throughout the quarter and s
 
 There will be labs assigned throughout the quarter. These labs are autograded and your score is based on Gradescope's recorded score. Lab sections and office hours are available to ask questions and seek assistance. Please be sure to check the due dates for all assignments on the course page and calendar.
 
-We will be using iClicker in this course during lectures to check our understanding of the material covered. You must attend the lectures to participate, and can expect to answer a few poll questions in each lecture. Participating in these polls accounts for 5% of your grade.
+* We will be using iClicker in this course during lectures to check our understanding of the material covered. You must attend the lectures to participate, and can expect to answer a few poll questions in each lecture. Participating in these polls counts for 5% of your grade.
 
-During lab sections, students will be expected to answer question(s) to your TA, as well as provide feedback on other students' presentations. These presentations / feedback will occur in lab sections in weeks 2 - 5. More information on this activity will be given. Student's presentations and peer feedback are each worth 5% of the total grade.
+* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student's presentations and peer presentation feedback are each worth 5% of the total grade.
 
 * Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the exams.
-* No lab assignment grades will be dropped.
 * All labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have a **20%** deduction from your grade. We will only consider your most recent submission.
   * **I highly encourage students not to wait until the last-minute to complete lab assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
 
