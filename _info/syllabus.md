@@ -81,17 +81,15 @@ Your course grade will be determined as follows:
 | Lab Section Presentations                     | 5 %                       |
 | Lab Section Peer Feedback                     | 5 %                       |
 
-In general, homeworks will be assigned periodically throughout the quarter and should be completed on Gradescope by the due date.
+* In general, homeworks will be assigned periodically throughout the quarter and should be completed on Gradescope by the due date. Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the exams.
 
-There will be labs assigned throughout the quarter. These labs are autograded and your score is based on Gradescope's recorded score. Lab sections and office hours are available to ask questions and seek assistance. Please be sure to check the due dates for all assignments on the course page and calendar.
+* There will be labs assigned throughout the quarter. These labs are autograded and your score is based on Gradescope's recorded score. Some lab sections and office hours are available to ask questions and seek assistance. Please be sure to check the due dates for all assignments on the course page and Gradescope.
+  * All labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have a **20%** deduction from your grade. We will only consider your most recent submission.
+  * **I highly encourage students not to wait until the last-minute to complete lab assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
 
 * We will be using iClicker in this course during lectures to check our understanding of the material covered. You must attend the lectures to participate, and can expect to answer a few poll questions in each lecture. Participating in these polls counts for 5% of your grade.
 
-* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student's presentations and peer presentation feedback are each worth 5% of the total grade.
-
-* Two of the lowest homework scores will be dropped. Late homework submissions will not be accepted. However, even if you know you will not be able to submit a homework on time, I highly encourage you to complete it anyways since the homeworks will help prepare you for the exams.
-* All labs must be submitted by the due date. There will be a 24-hour late window open on Gradescope for each lab. Submissions during the late window period will have a **20%** deduction from your grade. We will only consider your most recent submission.
-  * **I highly encourage students not to wait until the last-minute to complete lab assignments.** We generally will not be available to provide assistance over the weekend, and there is a risk of encountering technical difficulties (internet outages for example) that prevent an on-time submission. **Please plan accordingly.**
+* During lab sections, students will be organized into cohorts will be expected to answer question(s) that your TA will provide, as well as provide feedback on other students' presentations (see Lab Presentation Guide posted on Piazza for more details). These presentations / feedback will occur in lab sections in weeks 2 - 5. Student presentations and peer presentation feedback are each worth 5% of the total grade.
 
 # Late work
 
