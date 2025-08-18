@@ -172,11 +172,12 @@ print("Time elapsed with DICT (in seconds):", end - start)
 ```
 Time:
 * Gradescope (online assignment), Thursday 8/21 2pm - 3:20pm PST
-
-We will be monitoring Piazza during the midterm exam time.
-* For any CLARIFYING quesitons, you may post a PRIVATE question on
+* The midterm must be done independently (no group work)
+* Open book, notes, code editor (you can write / execute code). No AI tools are allowed.
+* We will be monitoring Piazza during the midterm exam time.
+    * For any CLARIFYING quesitons, you may post a PRIVATE question on
 Piazza where we will answer them.
-* If there needs to be a change / modification in any question, then
+    * If there needs to be a change / modification in any question, then
 we will post any clarifications publicly on Piazza (Piazza will send
 an email)
 
