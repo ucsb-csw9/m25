@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2025-08-27 14:00:00.00-7:00
 ---
 
-Recorded Lecture: [8_27_25](https://drive.google.com/file/d/17Wqa1-MO8iHl3_r-9ZXoh2D_-TLJZpXw/view?usp=drive_link)
+Recorded Lecture: [8-27-25](https://drive.google.com/file/d/17Wqa1-MO8iHl3_r-9ZXoh2D_-TLJZpXw/view?usp=drive_link)
 
 # Insertion Sort
 
