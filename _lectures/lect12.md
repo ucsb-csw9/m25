@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2025-08-28 14:00:00.00-7:00
 ---
 
-Recorded Lecture: [8_28_25](https://drive.google.com/file/d/1OpIDLD7Ngf0mLesLKEgjSZILWtrjX12_/view?usp=drive_link)
+Recorded Lecture: [8-28-25](https://drive.google.com/file/d/1OpIDLD7Ngf0mLesLKEgjSZILWtrjX12_/view?usp=drive_link)
 
 # Quicksort
 * Another divide-and-conquer algorithm
